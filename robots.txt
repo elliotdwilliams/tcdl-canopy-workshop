@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://elliotdwilliams.github.io/tcdl-canopy-workshop
+
+# Sitemaps
+Sitemap: https://elliotdwilliams.github.io/tcdl-canopy-workshop/sitemap.xml
