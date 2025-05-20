@@ -1,0 +1,20 @@
+{
+  "collection": "https://cdm16018.contentdm.oclc.org/iiif/2/p16018coll5/manifest.json",
+  "devCollection": "https://cdm16018.contentdm.oclc.org/iiif/2/p16018coll5/manifest.json",
+  "featured": [
+    "https://cdm16018.contentdm.oclc.org/iiif/p16018coll5:27/manifest.json",
+    "https://cdm16018.contentdm.oclc.org/iiif/p16018coll5:1534/manifest.json"
+  ],
+  "metadata": ["Date-Original", "Local Subject"],
+  "label": { "none": ["TCDL Canopy Workshop"] },
+  "summary": {
+    "none": ["COPS/Metro Alliance Collection from UTSA."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "indigo",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
